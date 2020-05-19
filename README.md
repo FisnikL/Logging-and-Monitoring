@@ -23,5 +23,3 @@ This application includes dockerized:
     - http://localhost:5601
   - Logstash
     - http://localhost:9600
-
-
